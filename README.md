@@ -1,4 +1,4 @@
-Linear Regression Health Costs Calculator
+# Linear Regression Health Costs Calculator
 
 This project focuses on building a regression model to predict healthcare costs based on demographic and lifestyle features. The dataset includes information such as age, BMI, number of children, smoking status, and region. The goal is to train a model that accurately predicts healthcare expenses using a neural network approach.
 
